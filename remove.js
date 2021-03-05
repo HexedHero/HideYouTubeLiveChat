@@ -23,6 +23,5 @@ window.onload = function()
 
     // Inject the CSS to the page
     document.body.appendChild(css);
-    alert("tes")
 
 }
